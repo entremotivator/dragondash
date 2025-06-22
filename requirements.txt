@@ -1,0 +1,24 @@
+# Dragon Dash Sweepstakes Dashboard Requirements
+# Core Streamlit and Data Processing
+streamlit>=1.28.0
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Data Visualization and Charts
+plotly>=5.15.0
+
+# Date and Time Handling
+python-dateutil>=2.8.2
+
+# Optional: Enhanced Data Processing (if needed for future features)
+openpyxl>=3.1.0
+xlsxwriter>=3.1.0
+
+# Optional: Additional Streamlit Components (if using custom components)
+streamlit-option-menu>=0.3.6
+streamlit-aggrid>=0.3.4
+
+# Development and Testing (optional)
+pytest>=7.4.0
+black>=23.0.0
+flake8>=6.0.0
